@@ -1,0 +1,47 @@
+vim chapter1.txt
+//this enables to write into the text file
+
+
+git init
+
+
+
+ls-a
+
+
+
+git status
+
+
+
+git add chapter1.txt
+
+
+
+git status
+
+
+
+git log
+
+
+
+git commit -m "Completed Chapter 1"
+
+
+
+git log
+
+
+
+git diff chapter3.txt
+
+
+git checkout chapter3.txt
+
+
+
+git remote add origin https://github.com/Viraj8702/MyMaterpiece.git
+
+
+git push -u origin master
