@@ -1,0 +1,22 @@
+git branch alien-plot
+
+
+git branch
+
+
+git checkout alien-plot
+
+
+start chapter1.txt
+
+
+start chapter2.txt
+
+
+git add . 
+
+
+git commit -m "modified chapter 1 and chapter 2 to alien theme"
+
+
+git log
